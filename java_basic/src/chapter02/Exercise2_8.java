@@ -1,4 +1,4 @@
-package chapter02;
+package src.chapter02;
 
 public class Exercise2_8 {
 
