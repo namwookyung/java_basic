@@ -2,7 +2,7 @@ package src.chapter04;
 
 import java.util.Scanner;
 
-public class while_3 {
+public class While_3 {
     public static void main(String[] args) {
         int num = 0, sum = 0;
         System.out.print("숫자를 입력하세요. (예 : 12345) > ");

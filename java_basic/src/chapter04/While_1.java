@@ -1,6 +1,6 @@
 package src.chapter04;
 
-public class while_1 {
+public class While_1 {
     public static void main(String[] args) {
         int i = 5;
 
