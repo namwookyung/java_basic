@@ -12,8 +12,8 @@ public class Exercise4_4 {
             } else {
                 num -= i;
             }
-            System.out.println("i가 몇이야? " + i);
-            System.out.println("num이 몇이야?" + num);
         }
+        System.out.println("i가 몇이야? " + i);
+        System.out.println("num이 몇이야?" + num);
     }
 }
